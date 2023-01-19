@@ -1,2 +1,0 @@
-# GisMapBox
-Geography Information System
